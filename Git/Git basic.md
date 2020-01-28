@@ -30,3 +30,17 @@
 
 
 
+![image-20200128093504123](Git basic.assets/image-20200128093504123.png)
+
+``` python
+git config --global user.name "minwon yoon"
+git config --global user.email "minwi0904@naver.com"
+```
+
+> git에 내 계정 등록하기
+
+```python
+git clone ____여기에는 url 저장해서 붙여넣기 + 만들고 싶은 폴더명
+```
+
+> 갖구오기(clone떠서)
