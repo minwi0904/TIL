@@ -66,9 +66,9 @@
 
 ### 탐색 및 정렬
 
-`index(x)`: x를 찾아 해당 index값 반환
+`.index(x)`: x를 찾아 해당 index값 반환
 
-`count(x)`: 원하는 값 개수 확인 가능
+`.count(x)`: 원하는 값 개수 확인 가능
 
 > 응용하면 remove를 이용해서 원하는 값 갯수 만큼 삭제 가능
 
@@ -182,4 +182,16 @@ dict({키: 값 for 키, 값 in 딕셔너리})
 
 
 ## map(), zip(), filter() 
+
+`map(function, iterable)`: 이터레이블한 모든 요소에 펑션을 적용해주는 친구
+
+>  첫번째 인자에는 함수를 넣고 두번째 인자에는 이터레이블한~친구들!
+
+> 대표적으로 iterable한 타입 - list, dict, set, str, bytes, tuple, range
+
+
+
+`zip(*iterables)`: 복수의 이터레이블 객체를 zip시켜줌
+
+`filter(function, iterable)`: 이터레이블에서 펑션의 반환결과가 트루인것만 구성해 반환
 
