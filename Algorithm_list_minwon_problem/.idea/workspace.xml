@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a86c8559-13bf-4cbd-a4d4-c080bdbfaccd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/square.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithm_string_minwon_problem/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithm_string_minwon_problem/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithm_string_minwon_problem/GNS_string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/square.py" beforeDir="false" afterPath="$PROJECT_DIR$/square.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithm_string_minwon_problem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm_string_minwon_problem/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithm_string_minwon_problem/palindrome1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm_string_minwon_problem/palindrome1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +16,7 @@
     <session id="314339425">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.2" value="5" />
           <entry key="project.open.time.3" value="3" />
@@ -39,12 +36,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="8664" />
+          <entry key="py" value="9504" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="8664" />
+          <entry key="Python" value="9504" />
         </counts>
       </usages-collector>
     </session>
@@ -54,8 +51,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/square.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="34" column="36" lean-forward="true" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+            <state relative-caret-position="92">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -120,7 +117,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Algorithm_string_minwon_problem" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
@@ -280,8 +277,8 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49893162" visible="true" weight="0.32894737" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49893162" weight="0.2883772" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991228" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -371,8 +368,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/square.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="34" column="36" lean-forward="true" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+        <state relative-caret-position="92">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>

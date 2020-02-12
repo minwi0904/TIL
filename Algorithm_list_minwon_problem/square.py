@@ -7,32 +7,24 @@ for number in range(numbers):
     N = int(input())
     N_N = [list(map(int, input().split())) for i in range(N)]
 
+    Maxroom = [0,0]
+    rooms = []
+    room_dict = {}
     for y in range(N):
         for x in range(N):
-            room = N_N[y][x]
             move = 1
 
             check = True
             x_x = x
             y_y = y
             while check:
+                room = N_N[y_y][x_x]
                 for i in range(4):
                     if 0 <= x_x + dx[i] < N and  0 <= y_y + dy[i] < N:
-                        if i == 0 and room + 1 == N_N[y_y+1][x_x]:
+                        if room + 1 == N_N[y_y+dy[i]][x_x+dx[i]]:
                             move += 1
-                            y_y += 1
-                            break
-                        elif i == 1 and room + 1 == N_N[y_y][x_x+1]:
-                            move += 1
-                            x_x += 1
-                            break
-                        elif i == 2 and room + 1 == N_N[y_y-1][x_x]:
-                            move += 1
-                            y_y -= 1
-                            break
-                        elif i == 3 and room + 1 == N_N[y_y][x_x-1]:
-                            move += 1
-                            x_x -= 1
+                            x_x += dx[i]
+                            y_y += dy[i]
                             break
                             # for문이 0~4까지 다 도는동안 다음 숫자가 없다는걸 판별해야하는데
                             # 지금은 i는 0일때 딱 한번만 확인하고 check를 False로 만들어버리니까
@@ -40,4 +32,18 @@ for number in range(numbers):
                 else:
                     check = False
 
-            print(move)
+            # room_dict[N_N[y][x]] = move # 딕트 개짱
+            if move > Maxroom[0]:
+                Maxroom = [move,N_N[y][x]]
+            if move == Maxroom[0] and N_N[y][x] < Maxroom[1]:
+                Maxroom = [move,N_N[y][x]]
+
+            # Maxroom_num = 0
+            # for key, val in room_dict.items():
+            #     if val == Maxroom:
+            #         if Maxroom
+            #         Maxroom_num = key
+            #         break
+
+
+    print('#{} {} {}'.format(number+1, Maxroom[1], Maxroom[0]))
