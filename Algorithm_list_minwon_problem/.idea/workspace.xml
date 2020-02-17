@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a86c8559-13bf-4cbd-a4d4-c080bdbfaccd" name="Default Changelist" comment="" />
+    <list default="true" id="a86c8559-13bf-4cbd-a4d4-c080bdbfaccd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/2805 농작물 수확하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Algorithm_list_minwon_problem.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Algorithm_list_minwon_problem.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithm_stack_minwon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm_stack_minwon/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,38 +18,38 @@
     <session id="314339425">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
-          <entry key="project.open.time.0" value="2" />
+          <entry key="project.closed" value="12" />
+          <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.2" value="6" />
           <entry key="project.open.time.3" value="3" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="10" />
+          <entry key="py" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="10" />
+          <entry key="Python" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="9504" />
+          <entry key="py" value="10965" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="9504" />
+          <entry key="Python" value="10965" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -75,6 +81,7 @@
         <option value="$PROJECT_DIR$/sudoku.py" />
         <option value="$PROJECT_DIR$/square.py" />
         <option value="$PROJECT_DIR$/IM대비 행렬찾기.py" />
+        <option value="$PROJECT_DIR$/2805 농작물 수확하기.py" />
       </list>
     </option>
   </component>
@@ -83,12 +90,15 @@
     <option name="width" value="1024" />
     <option name="height" value="1047" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -100,12 +110,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Algorithm_stack_minwon" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -119,8 +128,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.square">
-    <configuration name="Othello" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.2805 농작물 수확하기">
+    <configuration name="2805 농작물 수확하기" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm_list_minwon_problem" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,7 +141,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Othello.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2805 농작물 수확하기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -226,19 +235,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Othello" />
       <item itemvalue="Python.where_is_my_seat" />
       <item itemvalue="Python.sudoku" />
       <item itemvalue="Python.two_number" />
       <item itemvalue="Python.square" />
+      <item itemvalue="Python.2805 농작물 수확하기" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2805 농작물 수확하기" />
         <item itemvalue="Python.square" />
         <item itemvalue="Python.sudoku" />
         <item itemvalue="Python.two_number" />
         <item itemvalue="Python.where_is_my_seat" />
-        <item itemvalue="Python.Othello" />
       </list>
     </recent_temporary>
   </component>
@@ -359,6 +368,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2805 농작물 수확하기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
         </state>
       </provider>
     </entry>
