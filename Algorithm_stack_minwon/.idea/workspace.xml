@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4140d033-6420-484f-8400-8e55b5f40aff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Algorithm_list_minwon_problem/2805 농작물 수확하기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1210 Ladder1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1226 미로1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1267  작업순서.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithm_list_minwon_problem/.idea/Algorithm_list_minwon_problem.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm_list_minwon_problem/.idea/Algorithm_list_minwon_problem.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithm_list_minwon_problem/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm_list_minwon_problem/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithm_list_minwon_problem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm_list_minwon_problem/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,12 +14,12 @@
     <session id="-1277017635">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -102,7 +95,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -114,6 +106,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -271,7 +264,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1024" height="1047" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2494929" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494929" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
