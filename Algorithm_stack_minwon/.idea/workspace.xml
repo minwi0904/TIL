@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/4874 Forth.py" line="31" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="4140d033-6420-484f-8400-8e55b5f40aff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/stack2 연습문제1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homeworkshopPractice/workshop06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homeworkshopPractice/workshop07.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../homeworkshopPractice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homeworkshopPractice/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1220 Magnetic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4874 Forth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4875 미로.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백트래킹 부분집합.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithm/Algorithm_20200219.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm/Algorithm_20200219.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1267  작업순서.py" beforeDir="false" afterPath="$PROJECT_DIR$/1267  작업순서.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,32 +24,32 @@
     <session id="-1277017635">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.2" value="2" />
-          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.3" value="3" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="10" />
+          <entry key="py" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="10" />
+          <entry key="Python" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="5757" />
+          <entry key="py" value="10290" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="5757" />
+          <entry key="Python" value="10290" />
         </counts>
       </usages-collector>
     </session>
@@ -50,17 +57,21 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stack2 연습문제1.py">
+        <entry file="file://$PROJECT_DIR$/4874 Forth.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="516">
-              <caret line="63" column="7" selection-start-line="63" selection-start-column="7" selection-end-line="63" selection-end-column="7" />
+            <state relative-caret-position="437">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1267  작업순서.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/4875 미로.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="31" column="56" selection-start-line="31" selection-start-column="56" selection-end-line="31" selection-end-column="56" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -84,9 +95,14 @@
         <option value="$PROJECT_DIR$/4869 종이붙이기.py" />
         <option value="$PROJECT_DIR$/4871 그래프 경로.py" />
         <option value="$PROJECT_DIR$/1210 Ladder1.py" />
-        <option value="$PROJECT_DIR$/1267  작업순서.py" />
         <option value="$PROJECT_DIR$/1226 미로1.py" />
         <option value="$PROJECT_DIR$/stack2 연습문제1.py" />
+        <option value="$PROJECT_DIR$/1267  작업순서.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/백트래킹 부분집합.py" />
+        <option value="$PROJECT_DIR$/1220 Magnetic.py" />
+        <option value="$PROJECT_DIR$/4874 Forth.py" />
+        <option value="$PROJECT_DIR$/4875 미로.py" />
       </list>
     </option>
   </component>
@@ -133,8 +149,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.stack2 연습문제1">
-    <configuration name="1210 Ladder1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.4875 미로">
+    <configuration name="백트래킹 부분집합" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm_stack_minwon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,7 +162,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1210 Ladder1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백트래킹 부분집합.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,7 +171,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1226 미로1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1220 Magnetic" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm_stack_minwon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -167,7 +183,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1226 미로1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1220 Magnetic.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,7 +192,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4869 종이붙이기" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="4874 Forth" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm_stack_minwon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -188,7 +204,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4869 종이붙이기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4874 Forth.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,7 +213,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4871 그래프 경로" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="4875 미로" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm_stack_minwon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -209,7 +225,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4871 그래프 경로.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4875 미로.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -218,7 +234,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="stack2 연습문제1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm_stack_minwon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -230,7 +246,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack2 연습문제1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,19 +256,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.4871 그래프 경로" />
-      <item itemvalue="Python.4869 종이붙이기" />
-      <item itemvalue="Python.1210 Ladder1" />
-      <item itemvalue="Python.1226 미로1" />
-      <item itemvalue="Python.stack2 연습문제1" />
+      <item itemvalue="Python.백트래킹 부분집합" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.1220 Magnetic" />
+      <item itemvalue="Python.4874 Forth" />
+      <item itemvalue="Python.4875 미로" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.stack2 연습문제1" />
-        <item itemvalue="Python.1226 미로1" />
-        <item itemvalue="Python.1210 Ladder1" />
-        <item itemvalue="Python.4871 그래프 경로" />
-        <item itemvalue="Python.4869 종이붙이기" />
+        <item itemvalue="Python.4875 미로" />
+        <item itemvalue="Python.4874 Forth" />
+        <item itemvalue="Python.1220 Magnetic" />
+        <item itemvalue="Python.백트래킹 부분집합" />
+        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -271,15 +287,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20833333" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20833333" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32894737" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991228" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -334,15 +349,61 @@
     <entry file="file://$PROJECT_DIR$/1226 미로1.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/stack2 연습문제1.py">
+    <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="63" column="7" selection-start-line="63" selection-start-column="7" selection-end-line="63" selection-end-column="7" />
+        <state relative-caret-position="345">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/백트래킹 부분집합.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/1267  작업순서.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="805">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1220 Magnetic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack2 연습문제1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1162">
+          <caret line="63" column="7" selection-start-line="63" selection-start-column="7" selection-end-line="63" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4874 Forth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4875 미로.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="31" column="56" selection-start-line="31" selection-start-column="56" selection-end-line="31" selection-end-column="56" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
