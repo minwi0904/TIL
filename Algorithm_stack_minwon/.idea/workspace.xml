@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4140d033-6420-484f-8400-8e55b5f40aff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1220 Magnetic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4874 Forth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4875 미로.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백트래킹 부분집합.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithm/Algorithm_20200219.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm/Algorithm_20200219.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1224 계산기3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4881 배열 최소 합.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1267  작업순서.py" beforeDir="false" afterPath="$PROJECT_DIR$/1267  작업순서.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4880 토너먼트 카드게임.py" beforeDir="false" afterPath="$PROJECT_DIR$/4880 토너먼트 카드게임.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +20,7 @@
     <session id="-1277017635">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.3" value="3" />
@@ -34,22 +30,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="17" />
+          <entry key="py" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="17" />
+          <entry key="Python" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="10290" />
+          <entry key="py" value="12884" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="10290" />
+          <entry key="Python" value="12884" />
         </counts>
       </usages-collector>
     </session>
@@ -57,19 +53,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4874 Forth.py">
+        <entry file="file://$PROJECT_DIR$/4881 배열 최소 합.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            <state>
+              <caret selection-end-line="28" selection-end-column="47" />
+              <folding>
+                <marker date="1582184583614" expanded="true" signature="91:514" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/4875 미로.py">
+        <entry file="file://$PROJECT_DIR$/1224 계산기3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="31" column="56" selection-start-line="31" selection-start-column="56" selection-end-line="31" selection-end-column="56" />
+            <state relative-caret-position="184">
+              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -103,6 +102,9 @@
         <option value="$PROJECT_DIR$/1220 Magnetic.py" />
         <option value="$PROJECT_DIR$/4874 Forth.py" />
         <option value="$PROJECT_DIR$/4875 미로.py" />
+        <option value="$PROJECT_DIR$/4880 토너먼트 카드게임.py" />
+        <option value="$PROJECT_DIR$/4881 배열 최소 합.py" />
+        <option value="$PROJECT_DIR$/1224 계산기3.py" />
       </list>
     </option>
   </component>
@@ -149,8 +151,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.4875 미로">
-    <configuration name="백트래킹 부분집합" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.1224 계산기3">
+    <configuration name="1224 계산기3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm_stack_minwon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,28 +164,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백트래킹 부분집합.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1220 Magnetic" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Algorithm_stack_minwon" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1220 Magnetic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1224 계산기3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -234,7 +215,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="4880 토너먼트 카드게임" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm_stack_minwon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -246,7 +227,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4880 토너먼트 카드게임.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4881 배열 최소 합" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algorithm_stack_minwon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4881 배열 최소 합.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -256,19 +258,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.백트래킹 부분집합" />
-      <item itemvalue="Python.test" />
-      <item itemvalue="Python.1220 Magnetic" />
       <item itemvalue="Python.4874 Forth" />
       <item itemvalue="Python.4875 미로" />
+      <item itemvalue="Python.4880 토너먼트 카드게임" />
+      <item itemvalue="Python.4881 배열 최소 합" />
+      <item itemvalue="Python.1224 계산기3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1224 계산기3" />
+        <item itemvalue="Python.4881 배열 최소 합" />
+        <item itemvalue="Python.4880 토너먼트 카드게임" />
         <item itemvalue="Python.4875 미로" />
         <item itemvalue="Python.4874 Forth" />
-        <item itemvalue="Python.1220 Magnetic" />
-        <item itemvalue="Python.백트래킹 부분집합" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -293,7 +295,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32894737" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991228" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -346,9 +348,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1226 미로1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -391,6 +390,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/4875 미로.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="26" column="29" lean-forward="true" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1226 미로1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -398,10 +407,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4875 미로.py">
+    <entry file="file://$PROJECT_DIR$/4880 토너먼트 카드게임.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="31" column="56" selection-start-line="31" selection-start-column="56" selection-end-line="31" selection-end-column="56" />
+        <state relative-caret-position="322">
+          <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+          <folding>
+            <marker date="1582175844156" expanded="true" signature="65:70" ph="..." />
+            <marker date="1582175844156" expanded="true" signature="65:480" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4881 배열 최소 합.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="28" selection-end-column="47" />
+          <folding>
+            <marker date="1582184583614" expanded="true" signature="91:514" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1224 계산기3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
         </state>
       </provider>
     </entry>
