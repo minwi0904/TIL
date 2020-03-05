@@ -1,4 +1,4 @@
-#!D:\전대\취준\SSAFY\ssafy_homework\venv\Scripts\python.exe -x
+#!C:\Users\user\Documents\GitHub\TIL\ssafy_homework1\venv\Scripts\python.exe
 # EASY-INSTALL-ENTRY-SCRIPT: 'pip==19.0.3','console_scripts','pip'
 __requires__ = 'pip==19.0.3'
 import re

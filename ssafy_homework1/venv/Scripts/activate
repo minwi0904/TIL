@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="D:\전대\취준\SSAFY\ssafy_homework\venv"
+VIRTUAL_ENV="C:\Users\user\Documents\GitHub\TIL\ssafy_homework1\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
