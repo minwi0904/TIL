@@ -51,6 +51,8 @@
 ![image-20200313135700448](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20200313135700448.png)
 
 > clear를 안하면 다 밑으로 깔리고 세로길이를 인식 못하게 됨. 따라서 clear: left를 해줘야함.
+>
+> 이때, float한 div바로 아래 새로운 div class=clearfix로 새로 만들어줘서 이거를 스타일로 줘야함
 
 
 
