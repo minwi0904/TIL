@@ -1,4 +1,4 @@
-# JavaScript 200316
+# JavaScript 200316,18
 
 ### 코멘트
 
@@ -297,3 +297,48 @@ switch (inputNumber) {
 > ```
 >
 > 이렇게 하면 중복없이 모두 나오게 할 수 있음.
+
+
+
+### for반복문
+
+```javascript
+for (var i = 0; i < 6; i = i + 1) {
+    console.log(brands[i]);
+}
+```
+
+![image-20200318113747912](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20200318113747912.png)
+
+#### for of 반복문
+
+```javascript
+for (value of brands) {
+    console.log(value);
+} //브랜즈 원소자체를 하나 씩 가져오는거!
+```
+
+> value는 임의의 이름
+
+#### for in 반복문 >>사용지양하기
+
+```javascript
+for (var k in arr) {
+    console.log(k);
+} //인덱스에 접근하기
+```
+
+
+
+### while 반복문
+
+```javascript
+var i = 0;
+
+while (i < 6) {
+    console.log(brands[i]);
+    i++;
+}
+```
+
+> while조건부가 true일때만 작동, 파이썬과 동일
