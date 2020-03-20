@@ -1,3 +1,7 @@
+---
+typora-root-url: typora-user-images
+---
+
 # HTML/CSS 200312
 
 ### CSS 활용하기
