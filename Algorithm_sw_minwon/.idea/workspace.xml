@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="562b92e3-d45d-441d-b3ed-adc16df1fc90" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/5188 최소합.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5189 전자카트.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5207 이진 탐색.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5209 최소 생산 비용.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,8 +30,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.5189 전자카트">
+  <component name="RunManager" selected="Python.5207 이진 탐색">
     <configuration name="5185 이진수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_sw_minwon" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,8 +117,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="5207 이진 탐색" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm_sw_minwon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5207 이진 탐색.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.5207 이진 탐색" />
         <item itemvalue="Python.5189 전자카트" />
         <item itemvalue="Python.5188 최소합" />
         <item itemvalue="Python.5186 이진수2" />
@@ -151,26 +174,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="640" height="156" key="GridCell.Tab.0.bottom" timestamp="1588748591088">
+    <state width="640" height="156" key="GridCell.Tab.0.bottom" timestamp="1589515823425">
       <screen x="0" y="0" width="1280" height="683" />
     </state>
-    <state width="640" height="156" key="GridCell.Tab.0.bottom/0.0.1280.683@0.0.1280.683" timestamp="1588748591088" />
-    <state width="640" height="156" key="GridCell.Tab.0.center" timestamp="1588748591088">
+    <state width="640" height="156" key="GridCell.Tab.0.bottom/0.0.1280.683@0.0.1280.683" timestamp="1589515823425" />
+    <state width="640" height="156" key="GridCell.Tab.0.center" timestamp="1589515823425">
       <screen x="0" y="0" width="1280" height="683" />
     </state>
-    <state width="640" height="156" key="GridCell.Tab.0.center/0.0.1280.683@0.0.1280.683" timestamp="1588748591088" />
-    <state width="640" height="156" key="GridCell.Tab.0.left" timestamp="1588748591088">
+    <state width="640" height="156" key="GridCell.Tab.0.center/0.0.1280.683@0.0.1280.683" timestamp="1589515823425" />
+    <state width="640" height="156" key="GridCell.Tab.0.left" timestamp="1589515823425">
       <screen x="0" y="0" width="1280" height="683" />
     </state>
-    <state width="640" height="156" key="GridCell.Tab.0.left/0.0.1280.683@0.0.1280.683" timestamp="1588748591088" />
-    <state width="640" height="156" key="GridCell.Tab.0.right" timestamp="1588748591088">
+    <state width="640" height="156" key="GridCell.Tab.0.left/0.0.1280.683@0.0.1280.683" timestamp="1589515823425" />
+    <state width="640" height="156" key="GridCell.Tab.0.right" timestamp="1589515823425">
       <screen x="0" y="0" width="1280" height="683" />
     </state>
-    <state width="640" height="156" key="GridCell.Tab.0.right/0.0.1280.683@0.0.1280.683" timestamp="1588748591088" />
-    <state x="31" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1588735952660">
+    <state width="640" height="156" key="GridCell.Tab.0.right/0.0.1280.683@0.0.1280.683" timestamp="1589515823425" />
+    <state x="31" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1589426460669">
       <screen x="0" y="0" width="1280" height="683" />
     </state>
-    <state x="31" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.683@0.0.1280.683" timestamp="1588735952660" />
+    <state x="31" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.683@0.0.1280.683" timestamp="1589426460669" />
     <state x="0" y="4" width="672" height="678" key="search.everywhere.popup" timestamp="1588144040191">
       <screen x="0" y="0" width="1280" height="683" />
     </state>
